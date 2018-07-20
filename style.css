@@ -13,12 +13,14 @@ body {
     margin-bottom: 30px;
 }
 
-.footer {
-    background-color: darkcyan;
-    color: aliceblue;
-    text-align: right;
-    bottom: 0px;
-    height: 60px;
-  
 
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:darkcyan;
+    color: aliceblue;
+    text-align: center;
 }
