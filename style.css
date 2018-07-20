@@ -1,7 +1,7 @@
 body {
-    background: linear-gradient(white, aqua)
+    background: linear-gradient(white, aqua);
 }
 
-i.fb {
-    size: 7px;
+#head {
+    background-color: white;
 }
