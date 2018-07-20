@@ -1,9 +1,9 @@
 $(document).ready(function () {
     $(".socMed").hover(function(){
-        $(this).css({"height": "60px", "width": "60px"});
+        $(this).css({"height": "50px", "width": "50px"});
     },
     function(){
-        $(this).css({"height": "45px", "width": "45px"});
+        $(this).css({"height": "40px", "width": "40px"});
     });
 });
 

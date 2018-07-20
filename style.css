@@ -1,13 +1,24 @@
 body {
-    background: linear-gradient(white, aqua);
+    background: linear-gradient(white, white, aqua, darkcyan);
 }
 
 #head {
     background-color: white;
+    border-radius: 30px;
 }
 
 .socMed {
-    width: 45px;
-    height: 45px;
-    margin: 3px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: darkcyan;
+    color: aliceblue;
+    text-align: right;
+    bottom: 0px;
+    height: 60px;
+  
+
 }
